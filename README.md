@@ -32,6 +32,20 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 
 ---
 
+### ✅ Day 02 – Arrays & Searching
+
+**Concepts & Problems Covered:**
+
+- Linear Search
+- Merge Two Sorted Arrays
+- Find Missing Number in Array
+- Maximum Consecutive Ones
+- Two Sum Problem
+- Maximum Subarray Sum (Kadane’s Algorithm)
+- Best Time to Buy and Sell Stock
+- Rearrange Array Elements by Sign
+- Longest Consecutive Sequence
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
