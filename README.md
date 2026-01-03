@@ -13,8 +13,6 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 
 ### ✅ Day 01 – Basics & Sorting
 
-**Revised Topics:**
-
 - Digit extraction using loops
 - Count digits in a number
 - Palindrome number check
@@ -34,8 +32,6 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 
 ### ✅ Day 02 – Arrays & Searching
 
-**Concepts & Problems Covered:**
-
 - Linear Search
 - Merge Two Sorted Arrays
 - Find Missing Number in Array
@@ -45,6 +41,14 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 - Best Time to Buy and Sell Stock
 - Rearrange Array Elements by Sign
 - Longest Consecutive Sequence
+
+### ✅ Day 03 – Matrix & Two Pointer Problems
+
+- Set Matrix Zeroes (In-place matrix manipulation)
+- Rotate Matrix by 90 Degrees (In-place)
+- Spiral Matrix Traversal
+- 3Sum Problem (Sorting + Two Pointers)
+- 4Sum Problem (Extension of 3Sum)
 
 ## 🛠 Tech Stack
 
