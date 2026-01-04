@@ -42,6 +42,8 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 - Rearrange Array Elements by Sign
 - Longest Consecutive Sequence
 
+---
+
 ### ✅ Day 03 – Matrix & Two Pointer Problems
 
 - Set Matrix Zeroes (In-place matrix manipulation)
@@ -49,6 +51,21 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 - Spiral Matrix Traversal
 - 3Sum Problem (Sorting + Two Pointers)
 - 4Sum Problem (Extension of 3Sum)
+
+---
+
+### ✅ Day 04 – Binary Search
+
+- Binary Search (Iterative & Recursive)
+- Lower Bound and Upper Bound
+- Search Insert Position
+- Floor and Ceil in a Sorted Array
+- First and Last Occurrence of an Element
+- Count Occurrences of a Number
+- Search in Rotated Sorted Array
+- Find Minimum in Rotated Sorted Array
+
+---
 
 ## 🛠 Tech Stack
 
@@ -73,5 +90,3 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 - Numbered files to reflect revision order
 - One or few meaningful commits per day
 - No unnecessary abstractions or frameworks
-
----

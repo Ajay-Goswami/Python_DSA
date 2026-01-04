@@ -8,8 +8,10 @@
 # Input: nums = [1,0,-1,0,-2,2], target = 0
 # Output: [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]
 
-nums = [1,0,-1,0,-2,2]
-target = 0
+# nums = [1,0,-1,0,-2,2]
+# target = 0
+nums = [2,2,2,2]
+target = 8
 
 def four_sum(nums, target):
     nums.sort()
