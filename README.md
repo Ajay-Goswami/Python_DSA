@@ -67,6 +67,21 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 
 ---
 
+### ✅ Day 05 – Linked List
+
+- Singly Linked List implementation
+- Insertion in Linked List
+- Deletion in Linked List
+- Reverse a Linked List
+- Odd-Even Linked List
+- Remove Nth Node from End of List
+- Tortoise and Hare Approach
+- Floyd’s Cycle Detection Algorithm
+- Find Starting Point of Cycle in Linked List
+- Find Length of Loop in Linked List
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
