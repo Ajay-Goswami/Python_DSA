@@ -9,6 +9,17 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 
 ---
 
+## 📌 Prerequisites
+
+Before starting this DSA revision, basic familiarity with Python is expected.
+
+If you need a quick refresh of Python fundamentals, refer to this repository:
+
+👉 **Python Basics & Core Concepts**  
+https://github.com/Ajay-Goswami/Python
+
+---
+
 ## 📅 Day-wise Progress
 
 ### ✅ Day 01 – Basics & Sorting
@@ -79,6 +90,16 @@ The code is intentionally kept **simple, readable, and topic-focused**.
 - Floyd’s Cycle Detection Algorithm
 - Find Starting Point of Cycle in Linked List
 - Find Length of Loop in Linked List
+
+---
+
+### ✅ Day 06 – Doubly Linked List
+
+- Doubly Linked List implementation
+- Reverse a Doubly Linked List
+- Delete All Occurrences of a Given Key
+- Find All Pairs With Given Sum
+- Remove Duplicates from Doubly Linked List
 
 ---
 
