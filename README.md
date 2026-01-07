@@ -103,6 +103,21 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 07: String Problems Implementation
+
+- Remove outermost parentheses
+- Reverse words in a string
+- Find largest odd number in a string
+- Longest common prefix
+- Isomorphic strings check
+- Rotate string
+- Valid anagram
+- Sort characters by frequency
+- Maximum nesting depth of parentheses
+- Roman to integer conversion
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
