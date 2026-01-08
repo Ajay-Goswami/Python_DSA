@@ -118,6 +118,18 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 08 – Bit Manipulation
+
+- Introduction to Bit Manipulation concepts
+- Check if the i-th bit is set or not
+- Check whether a number is odd or even using bits
+- Check if a number is a power of 2
+- Count the number of set bits (1s) in a number
+- Set / Unset the rightmost unset bit
+- Swap two numbers using bitwise XOR
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
