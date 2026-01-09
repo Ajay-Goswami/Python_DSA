@@ -130,6 +130,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 09 - Bit Manipulation Problems
+
+- Count number of bits to be flipped to convert A to B
+- Find the number that appears odd number of times
+- Power Set
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
