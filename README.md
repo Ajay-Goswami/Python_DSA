@@ -138,6 +138,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 10 - Sliding Window and Two Pointers
+
+- Longest Substring Without Repeating Characters Problem
+- Max Consecutive Ones III Problem
+- Fruit Into Baskets Problem
+- Maximum points from Cards Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
