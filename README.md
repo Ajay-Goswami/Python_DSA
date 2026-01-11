@@ -147,6 +147,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 11 - Advanced Recursion and Backtracking
+
+- Print all the subsequences of a string
+- Find all Subsequences of an Array with Sum == K
+- check if there is exist a Subsequence with Sum == K
+- Count all Subsequences of an Array with Sum == K
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
