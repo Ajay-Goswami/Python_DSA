@@ -156,6 +156,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 12 - Advanced Recursion and Backtracking Problems Part 2
+
+- Generate All Binary Strings Problem
+- Generate Parentheses Problem
+- Combination Sum Problem
+- Combination Sum II Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
