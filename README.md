@@ -165,6 +165,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 13 - Advanced Recursion and Backtracking Problems Part 3
+
+- Combination Sum III Problem
+- Letter Combinations of a Phone Number Problem
+- N-Queens Problem
+- Rat in a Maze Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
