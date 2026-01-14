@@ -174,6 +174,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 14 - Stacks Implementation and Problems
+
+- Stack Implementation using Array/Python List
+- Reverse a String using Stack
+- Valid Parentheses Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
