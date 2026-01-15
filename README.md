@@ -182,6 +182,13 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 15 - Queues Implementation and Stack Using Deque
+
+- Queue Implementation using Array/Python List
+- Understanding Deque from collections module
+- Stack Implementation using Deque
+- Queue Implementation using One Stack
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
