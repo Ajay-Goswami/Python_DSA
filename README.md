@@ -189,6 +189,17 @@ https://github.com/Ajay-Goswami/Python
 - Stack Implementation using Deque
 - Queue Implementation using One Stack
 
+---
+
+### ✅ Day 16 - Stack Problems
+
+- Get Min Element from Stack in O(1) Time
+- Next Greater Element Problem
+- Next Greater Element II Problem
+- Asteroid Collision Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
