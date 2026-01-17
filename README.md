@@ -200,6 +200,18 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 17 - Prefix, Postfix, and Infix Expressions
+
+- Basic Understanding of Prefix, Postfix, and Infix Expressions
+- Infix to Postfix Conversion
+- Infix to Prefix Conversion
+- Postfix to Infix Conversion
+- Prefix to Infix Conversion
+- Postfix to Prefix Conversion
+- Prefix to Postfix Conversion
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
