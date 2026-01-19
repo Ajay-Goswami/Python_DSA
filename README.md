@@ -212,6 +212,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 18 - Greedy Algorithms
+
+- Assign Cookies Problem
+- Fractional Knapsack Problem
+- Greedy algorithm to find minimum number of coins
+- Lemonade Change
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
