@@ -221,6 +221,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 19 - Greedy Algorithms Problems Part 2
+
+- N Meetings in One Room Problem
+- Jump Game Problem
+- Jump Game II Problem
+- Minimum Number of platforms Required for a Railway/Bus Station Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
