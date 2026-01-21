@@ -230,6 +230,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 20 - Binary Trees Implementation and Traversals
+
+- Introduction to Trees and Binary Trees
+- Binary Tree Node Implementation
+- DFS Traversals: Inorder, Preorder, Postorder
+- BFS Traversal: Level Order Traversal
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
