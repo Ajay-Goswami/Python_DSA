@@ -239,6 +239,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 21 - Binary Trees Problems
+
+- Height of Binary Tree
+- Check if the Binary Tree is height-balanced or not
+- Diameter of Binary Tree
+- Maximum Path Sum in Binary Tree
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
