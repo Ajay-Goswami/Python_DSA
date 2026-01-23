@@ -248,6 +248,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 22 - Binary Trees Views
+
+- Top View of Binary Tree
+- Bottom View of Binary Tree
+- Right View of Binary Tree
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
