@@ -256,6 +256,16 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 23 - Binary Search Trees Implementation and Problems
+
+- Introduction to Binary Search Trees
+- Search in a Binary Search Tree
+- Find Minimum and Maximum in a BST
+- Ceil in a BST
+- Floor in a BST
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
