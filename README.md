@@ -266,6 +266,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 24 - Binary Search Trees Problems Part 2
+
+- Insert a given Node in a BST
+- Delete a given Node in a BST
+- Morrid Preorder/Inorder Traversal of a BST
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
