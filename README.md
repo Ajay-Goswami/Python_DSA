@@ -274,6 +274,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 25 - Binary Search Trees Problems Part 3
+
+- Find Kth Smallest/Largest Element in a BST
+- Check if a Binary Tree is a BST or not
+- Lowest Common Ancestor in a BST
+- Inorder Successor and Predecessor in a BST
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
