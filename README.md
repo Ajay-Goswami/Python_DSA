@@ -283,6 +283,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 26 - Heaps
+
+- Introduction to Priority Queues and Heaps
+- Heapify Algorithm
+- Build Heap from a given Array
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
