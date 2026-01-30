@@ -291,6 +291,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 27 - Heaps Implementation and Problems
+
+- Implementation of Min-Heap
+- Implementation of Max-Heap
+- Check if a given Array is a Min-Heap
+- Convert Min-Heap to Max-Heap
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
