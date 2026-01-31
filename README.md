@@ -300,6 +300,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 28 - Heap Problems
+
+- Kth Largest Element in an Array (Use Priority Queue)
+- Kth Smallest Element in an Array (Use Priority Queue)
+- Merge K Sorted Arrays (Use Min-Heap)
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
