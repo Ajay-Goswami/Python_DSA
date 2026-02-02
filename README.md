@@ -308,6 +308,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 29 - Heap Problems Part 2
+
+- Replace each array element by its corresponding rank
+- Task Scheduler Problem
+- Hands of Straights Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
