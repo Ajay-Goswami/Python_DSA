@@ -316,6 +316,17 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 30 - Graphs Implementation
+
+- Introduction to Graphs
+- Graph Representation
+  - Adjacency Matrix
+  - Adjacency List
+  - Adjacency Dictionary
+- Connected Components in an Undirected Graph
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
