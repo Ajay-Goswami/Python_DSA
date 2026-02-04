@@ -327,6 +327,13 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 31 - Graphs Traversals
+
+- Breadth First Search (BFS) Implementation
+- Depth First Search (DFS) Implementation
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
