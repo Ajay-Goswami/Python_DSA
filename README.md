@@ -334,6 +334,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 32 - Problems based on BFS and DFS
+
+- Rotten Oranges Problem
+- Flood Fill Problem
+- Cycle Detection in an Undirected Graph using BFS
+- Cycle Detection in an Undirected Graph using DFS
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
