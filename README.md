@@ -343,6 +343,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 33 - Problems based on BFS and DFS Part 2
+
+- 0/1 Matrix BFS Problem
+- Surrounded Regions Problem
+- Number of Enclaves Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
