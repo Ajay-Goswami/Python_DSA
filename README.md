@@ -351,6 +351,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 34 - Problems based on BFS and DFS Part 3
+
+- Word Ladder 1 Problem
+- Word Ladder 2 Problem
+- Number of Islands Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
