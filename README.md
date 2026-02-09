@@ -359,6 +359,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 35 - Problems based on BFS and DFS Part 4
+
+- Number of Distinct Islands Problem (DFS Multisource Problem)
+- Bipartite Graph BFS/DFS Problem
+- Cycle Detection in a Directed Graph using DFS
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
