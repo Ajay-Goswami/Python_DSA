@@ -367,6 +367,14 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 36 - Topological Sort Based Problems
+
+- Topological Sort using DFS
+- Topological Sort using Kahn’s Algorithm (BFS)
+- Cycle Detection in a Directed Graph using Topological Sort (BFS)
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
