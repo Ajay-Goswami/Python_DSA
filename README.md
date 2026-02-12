@@ -375,6 +375,16 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 37 - Topological Sort Based Problems Part 2
+
+- Course Schedule Problem
+- Course Schedule II Problem
+- Find Eventual Safe States Problem BFS
+- Find Eventual Safe States Problem DFS
+- Alien Dictionary Problem
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
