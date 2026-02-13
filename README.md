@@ -385,6 +385,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 38 - Shortest Path Related Problems
+
+- Shortest Path in Undirected Graph with Unit Weights
+- Shortest Path in Directed Acyclic Graph (DAG)
+- Dijkstra's Algorithm using Priority Queue
+- Dijkstra's Algorithm using Set
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
