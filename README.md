@@ -394,6 +394,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 39 - Shortest Path Related Problems Part 2
+
+- Print the Shortest Path (Dijkstra's with Path Tracking)
+- Shortest Path in a Binary Maze (BFS)
+- Path With Minimum Effort (Dijkstra's on Grid)
+- Cheapest Flights Within K Stops (Modified BFS / Bellman-Ford)
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
