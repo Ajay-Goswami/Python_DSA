@@ -403,6 +403,16 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 40 - Shortest Path Related Problems Part 3
+
+- Minimum Steps to Reach End from Start (BFS with Multiplication & Mod)
+- Number of Ways to Arrive at Destination (Dijkstra's with Path Counting)
+- Bellman-Ford Algorithm (Negative Weight Edges & Cycle Detection)
+- Floyd-Warshall Algorithm (All-Pairs Shortest Path)
+- Find the City with Smallest Number of Neighbors in a Threshold Distance
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
