@@ -413,6 +413,18 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 41 - Minimum Spanning Tree and Disjoint Set
+
+- Minimum Spanning Tree (Concept & Representation)
+- Prim's Algorithm (Greedy + Min-Heap)
+- Disjoint Set Union by Rank (Union-Find with Path Compression)
+- Disjoint Set Union by Size (Union-Find with Path Compression)
+- Kruskal's Algorithm (Greedy + Union-Find)
+- Number of Provinces (DSU Problem)
+- Number of Operations to Make Network Connected (DSU Problem)
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
