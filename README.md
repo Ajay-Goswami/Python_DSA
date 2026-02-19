@@ -425,6 +425,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 42 - DP on 1D
+
+- Climbing Stairs (1D DP - Fibonacci Pattern)
+- Frog Jump (Minimum Cost Path)
+- Maximum Sum of Non-Adjacent Elements (House Robber)
+- House Robber 2 (Circular Arrangement Variant)
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
