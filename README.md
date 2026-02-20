@@ -434,6 +434,18 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 43 - DP on 2D/3D Grids
+
+- Ninja's Training (2D DP - Activity Selection)
+- Grid Unique Paths (DP on Grids)
+- Grid Unique Paths 2 (with Obstacles)
+- Minimum Path Sum in Grid
+- Minimum Path Sum in Triangular Grid
+- Minimum / Maximum Falling Path Sum
+- 3D DP - Ninja and his Friends (Cherry Pickup 2)
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
