@@ -446,6 +446,17 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 44 - DP on Subsequences
+
+- Subset Sum Equal to Target
+- Partition Equal Subset Sum
+- Partition Set Into 2 Subsets With Minimum Absolute Sum Difference
+- Count Subsets with Sum K
+- Count Partitions with Given Difference
+- 0/1 Knapsack
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
