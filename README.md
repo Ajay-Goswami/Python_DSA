@@ -457,6 +457,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 45 - DP on Stocks
+
+- Best Time to Buy and Sell Stock (Single Transaction)
+- Buy and Sell Stock II (Unlimited Transactions)
+- Buy and Sell Stocks III (At Most 2 Transactions)
+- Buy and Sell Stock IV (At Most K Transactions)
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
