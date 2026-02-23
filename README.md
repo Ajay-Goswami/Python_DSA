@@ -466,6 +466,15 @@ https://github.com/Ajay-Goswami/Python
 
 ---
 
+### ✅ Day 46 - Tries
+
+- Implement TRIE | INSERT | SEARCH | STARTSWITH
+- Implement Trie - 2 (Prefix Tree)
+- Longest String with All Prefixes
+- Number of Distinct Substrings in a String
+
+---
+
 ## 🛠 Tech Stack
 
 - Language: **Python**
